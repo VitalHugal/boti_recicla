@@ -61,7 +61,7 @@ Siga os passos abaixo para configurar e executar o projeto em seu ambiente de de
 ### Pré-requisitos
 
 - PHP >= 8.2
-- Composer
+- Composer (compatível com a versão do php)
 - Servidor Web (XAMPP, WAMP, Laragon, etc.)
 - Node.js e NPM (para o frontend, se aplicável)
 
